@@ -238,12 +238,12 @@
 		display:inline-block;
 		z-index:7;
 		top:4px;
-		border:1px solid #06d666;
+		border:1px solid #d38d3d;
 		float:none;
 		margin-right:0px;
 		margin-top:0px;
 		border-radius:0px;
-		background:#06d666;
+		background:#d38d3d;
 	}
 	
 	.main-menu .navbar-header .navbar-toggle .icon-bar{
@@ -254,7 +254,7 @@
 		float:none !important;
 		margin:0px !important;
 		width:100% !important;
-		background:#06d666;
+		background:#d38d3d;
 		border:1px solid #ffffff;
 		border-top:none;
 	}
@@ -299,7 +299,7 @@
 		top:auto !important;
 		width:100%;
 		padding:0px;
-		background:#06d666;
+		background:#d38d3d;
 		-webkit-border-radius:0px;
 		-ms-border-radius:0px;
 		-o-border-radius:0px;
@@ -333,7 +333,7 @@
 		padding:10px 10px !important;
 		line-height:22px;
 		color:#ffffff;
-		background:#06d666;
+		background:#d38d3d;
 		text-align:left;
 	}
 	

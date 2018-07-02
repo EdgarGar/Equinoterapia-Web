@@ -1,0 +1,699 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"image",
+				"image-box"
+			],
+			[
+				"vert",
+				"vertex2"
+			],
+			[
+				"co",
+				"cost"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"con",
+				"confirmacion"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"close",
+				"closest"
+			],
+			[
+				"cof",
+				"confirmations"
+			],
+			[
+				"conex",
+				"conexion"
+			],
+			[
+				"res",
+				"registro1"
+			],
+			[
+				"al",
+				"alumno"
+			],
+			[
+				"resi",
+				"registro"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"re",
+				"registro"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"g",
+				"getNombre"
+			],
+			[
+				"get",
+				"getNombre"
+			],
+			[
+				"gr",
+				"grafico"
+			],
+			[
+				"G",
+				"Grafico"
+			],
+			[
+				"ini",
+				"inicializar"
+			],
+			[
+				"not",
+				"notifyObservers"
+			],
+			[
+				"no",
+				"notifyObservers"
+			],
+			[
+				"o",
+				"observer"
+			],
+			[
+				"a",
+				"addElement"
+			],
+			[
+				"gra",
+				"graficoColisionado"
+			],
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"Pl",
+				"Planet"
+			],
+			[
+				"Pla",
+				"PlanetObservationShips"
+			],
+			[
+				"tab",
+				"tablero"
+			],
+			[
+				"graf",
+				"graficos"
+			],
+			[
+				"agreg",
+				"agregarGrafico"
+			],
+			[
+				"Co",
+				"Collection"
+			],
+			[
+				"agre",
+				"agregarGrafico"
+			],
+			[
+				"prin",
+				"printBoard"
+			],
+			[
+				"cre",
+				"crearGalaxia"
+			],
+			[
+				"u",
+				"ubicarGrafico"
+			],
+			[
+				"Plane",
+				"PlanetObservationShips"
+			],
+			[
+				"SIZ",
+				"SIZEY"
+			],
+			[
+				"SI",
+				"SIZEX"
+			],
+			[
+				"fa",
+				"factoryMethod"
+			],
+			[
+				"A",
+				"Asteroid"
+			],
+			[
+				"plan",
+				"planet_observation"
+			],
+			[
+				"planet",
+				"planet_exploration"
+			],
+			[
+				"pla",
+				"planet_exploration"
+			],
+			[
+				"m",
+				"mover"
+			],
+			[
+				"iron",
+				"iron_meteorites"
+			],
+			[
+				"com",
+				"compu"
+			],
+			[
+				"Stony",
+				"StonyMeteorites"
+			],
+			[
+				"de",
+				"desertplanet"
+			],
+			[
+				"Plan",
+				"PlanetObservationShips"
+			],
+			[
+				"Colo",
+				"ColonizationShips"
+			],
+			[
+				"Iron",
+				"IronMeteorites"
+			],
+			[
+				"Sto",
+				"StonyMeteorites"
+			],
+			[
+				"Earth",
+				"EarthAnalog"
+			],
+			[
+				"Desert",
+				"DesertPlanet"
+			],
+			[
+				"C",
+				"Crear_Nave"
+			],
+			[
+				"c",
+				"crear"
+			],
+			[
+				"s",
+				"spacecrafts"
+			],
+			[
+				"S",
+				"Spacecraft"
+			],
+			[
+				"coll",
+				"collection"
+			],
+			[
+				"Pro",
+				"Proceso2"
+			],
+			[
+				"pro",
+				"Proceso1"
+			],
+			[
+				"p1",
+				"p1_entra"
+			],
+			[
+				"p2",
+				"p2_entra"
+			],
+			[
+				"Proc",
+				"Proceso1"
+			],
+			[
+				"TARE",
+				"TAREA_FINALES"
+			],
+			[
+				"TAR",
+				"TAREA_FINALES"
+			],
+			[
+				"Noti",
+				"NoticiasInternacionales"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"N",
+				"Notificar"
+			],
+			[
+				"Not",
+				"NoticiasInternacionales"
+			],
+			[
+				"set",
+				"setBuilder"
+			],
+			[
+				"Bo",
+				"BoeingBuileder"
+			],
+			[
+				"se",
+				"setMarca"
+			],
+			[
+				"buildM",
+				"buildModelo"
+			],
+			[
+				"bui",
+				"builder"
+			],
+			[
+				"build",
+				"buildNumSerie"
+			],
+			[
+				"buil",
+				"buildAlas"
+			],
+			[
+				"h",
+				"hiper"
+			],
+			[
+				"po",
+				"potencia"
+			],
+			[
+				"resu",
+				"result_buffer"
+			],
+			[
+				"In",
+				"IntIterator"
+			],
+			[
+				"Int",
+				"IntIterator"
+			],
+			[
+				"int",
+				"intCollection"
+			],
+			[
+				"comp",
+				"computadora"
+			],
+			[
+				"dek",
+				"desktop"
+			],
+			[
+				"Crear",
+				"Crear_Computadoras"
+			],
+			[
+				"clon",
+				"clon_computadora"
+			],
+			[
+				"Clon",
+				"clone_videojuego"
+			],
+			[
+				"elimi",
+				"eliminar_videojuego"
+			],
+			[
+				"opc",
+				"opcion"
+			],
+			[
+				"opci",
+				"opcion_seleccionada"
+			],
+			[
+				"nombre",
+				"nombre_mundo"
+			],
+			[
+				"desv",
+				"desv_e"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"{ \"shell_cmd\": \"g++ \\\"${file}\\\" -o \\\"${file_path}/${file_base_name}\\\"\", \"file_regex\": \"^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$\", \"working_dir\": \"${file_path}\", \"selector\": \"source.c, source.c++\", \"variants\": [ { \"name\": \"Run\", \"shell_cmd\": \"g++ \\\"${file}\\\" -o \\\"${file_path}/${file_base_name}\\\" && \\\"${file_path}/${file_base_name}\\\"\" } ] }",
+			"g++ fact.cpp",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/danflovier/Desktop/Equinoterapia-Web/samara/index.html",
+		"/C/xampp/htdocs/Equinoterapia-Web/samara/contact.html",
+		"/C/xampp/htdocs/Equinoterapia-Web/samara/css/style.css",
+		"/C/xampp/htdocs/Equinoterapia-Web/samara/about-us.html",
+		"/C/xampp/htdocs/Equinoterapia-Web/samara/index.html",
+		"/C/Users/danflovier/Downloads/samarahtml2/samara full pack/samara/index.html",
+		"/C/Users/danflovier/Downloads/samarahtml2/samara full pack/samara/sendemail.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/danflovier/Downloads/samarahtml2/samara full pack/samara/index-2.html",
+		"/C/Users/danflovier/Downloads/samarahtml2/samara full pack/samara/index-3.html",
+		"/C/Users/danflovier/Documents/prueba2.txt",
+		"/C/Users/danflovier/Documents/prueba.txt",
+		"/C/Users/danflovier/Downloads/PlayerController.cs",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/Proyectos/Proyecto 3/TSP.java",
+		"/C/Users/danflovier/Downloads/PDA/pda.py",
+		"/C/Users/danflovier/Downloads/pda.py",
+		"/C/xampp/htdocs/Videogames/relato.html",
+		"/C/xampp/htdocs/Videogames/timeline.html",
+		"/C/Users/danflovier/Downloads/Videojuegos/Modelos/Bat2/Readme.txt",
+		"/C/xampp/htdocs/Videogames/bibliografia-anexo.html",
+		"/C/xampp/htdocs/Videogames/teoria-videojuegos.html",
+		"/C/xampp/htdocs/Videogames/index.html",
+		"/C/xampp/htdocs/Videogames/futuro-videojuegos.html",
+		"/C/xampp/htdocs/Videogames/descripcion.html",
+		"/C/xampp/htdocs/Videogames/conclusion.html",
+		"/C/xampp/htdocs/Videogames/videojuegos-medios.html",
+		"/C/Users/danflovier/Desktop/TSP.java",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/Proyectos/Proyecto 2/MST.java",
+		"/C/Users/danflovier/Downloads/TSP.java",
+		"/C/Users/danflovier/Desktop/Tsp2.java",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/P4tsp10.txt",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/P4tsp25.txt",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/TSP.java",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/Proyectos/Proyecto 3/P4tsp25.txt",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/Proyectos/Proyecto 3/P4tsp4.txt",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/Algoritmos/mediumEWG.txt",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/Proyectos/Proyecto 1/Arreglo.java",
+		"/C/Users/danflovier/Documents/MST.java",
+		"/C/Users/danflovier/Desktop/MST.java",
+		"/C/Users/danflovier/Downloads/ejemplo archivo.txt",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/Proyectos/Proyecto 2/PrimMST.java",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/Algoritmos/P2Edges.txt",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/Algoritmos/algoritmos/.git/config",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/danflovier/AppData/Local/Temp/Temp1_video maker fx.zip/video maker fx/crack/CheckAuth.php",
+		"/C/Users/danflovier/AppData/Local/Temp/Temp1_video maker fx.zip/video maker fx/crack/paste the code.txt",
+		"/C/Users/danflovier/Downloads/Crack file/CheckAuth.php",
+		"/C/xampp/htdocs/CheckAuth.php",
+		"/C/Users/danflovier/AppData/Local/Temp/Temp1_video maker fx.zip/video maker fx/crack/videofx.txt",
+		"/C/Users/danflovier/.gitconfig",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/Proyectos/Proyecto 2/P2Edges.txt",
+		"/C/Users/danflovier/Documents/Characters/Assets/Scripts/PauseGame.cs",
+		"/C/Users/danflovier/Documents/KOSOM_Prototype/Assets/Scripts/Effects.cs",
+		"/C/Users/danflovier/Downloads/nfa.py",
+		"/C/Users/danflovier/Downloads/Project1/nfa_config.txt",
+		"/C/Users/danflovier/Downloads/Bueno.py",
+		"/C/Users/danflovier/Downloads/Bueno(1).py",
+		"/C/Users/danflovier/Downloads/NFA.py",
+		"/C/Users/danflovier/Downloads/JEJE.py",
+		"/C/Users/danflovier/AppData/Local/Temp/Temp1_proyectoMates-master.zip/proyectoMates-master/proyecto_mates.py",
+		"/C/Users/danflovier/Documents/Modelado/Assets/Scripts/BallMotion.cs",
+		"/C/Users/danflovier/Documents/Modelado/Assets/Scripts/GameControl.cs",
+		"/C/Users/danflovier/Documents/Modelado/Assets/Scripts/PaddleMotion.cs",
+		"/C/Users/danflovier/Documents/Modelado/Assets/Scripts/GoalDetector.cs",
+		"/C/Users/danflovier/Documents/PingPong/Assets/Scripts/PaddleMotion.cs",
+		"/C/Users/danflovier/Documents/PingPong/Assets/Scripts/GameControl.cs",
+		"/C/Users/danflovier/Documents/lol.txt",
+		"/C/Users/danflovier/Documents/PingPong/Assets/Scripts/GoalDetector.cs",
+		"/C/xampp/htdocs/asistencia_becario/comprobar.php",
+		"/C/xampp/htdocs/asistencia_becario/login.php",
+		"/C/xampp/htdocs/asistencia_becario/update.php",
+		"/C/xampp/htdocs/asistencia_becario/responsable.php",
+		"/C/xampp/htdocs/asistencia_becario/css/alumno.css",
+		"/C/xampp/htdocs/asistencia_becario/css/responsable.css",
+		"/C/xampp/htdocs/asistencia_becario/asistencia.php",
+		"/C/xampp/htdocs/asistencia_becario/alumno.php",
+		"/C/xampp/htdocs/asistencia_becario/index.php",
+		"/C/xampp/htdocs/asistencia_becario/conexion.php",
+		"/C/xampp/htdocs/asistencia_becario/asistencia_becario.sql",
+		"/C/xampp/htdocs/asistencia_becario/css/login.css",
+		"/C/xampp/htdocs/TiendaFuncional/catalogo.php",
+		"/C/xampp/htdocs/TiendaFuncional/products.php",
+		"/C/Users/danflovier/Downloads/Main.java",
+		"/C/Users/danflovier/Desktop/Arreglo.java",
+		"/C/Users/danflovier/Desktop/Main.java",
+		"/C/Users/danflovier/Desktop/archivo.txt",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/Algoritmos/archivo.txt",
+		"/C/Users/danflovier/Documents/6o_semestre/Materias/Algoritmos/Algoritmos/src/algoritmos/Arreglo.java",
+		"/C/xampp/htdocs/asistencia_becario/functions.php",
+		"/C/xampp/htdocs/asistencia_becario/cifrar.php",
+		"/C/Users/danflovier/Documents/Fibonacci.java",
+		"/C/Users/danflovier/Downloads/Password.cpp",
+		"/C/Users/danflovier/Downloads/pass.c",
+		"/C/Users/danflovier/Documents/android_material_design_colours.xml",
+		"/C/Users/danflovier/Downloads/main.cpp",
+		"/C/Users/danflovier/Documents/ITESM/5o_semestre/Materias/Sistemas Operativos/Actividades/ejemplo (1).sh",
+		"/C/Users/danflovier/Documents/ITESM/5o_semestre/Materias/Sistemas Operativos/Actividades/ejemplo.sh",
+		"/C/Users/danflovier/Downloads/ejemplo.sh",
+		"/C/Users/danflovier/Downloads/usuarios",
+		"/C/Users/danflovier/Downloads/ejemplo (1).sh",
+		"/C/Users/danflovier/AndroidStudioProjects/GE_Scanner/app/src/main/res/values/colors.xml",
+		"/C/Users/danflovier/AndroidStudioProjects/GE_Scanner/app/src/main/res/values/android_material_design_colours.xml",
+		"/C/Users/danflovier/Downloads/SendMail.java",
+		"/C/Users/danflovier/Downloads/MailApp.java",
+		"/C/Users/danflovier/Pictures/EjemploPrepa/Jesse/Proyecto/Proyecto1/java_splash/safeance.xml",
+		"/C/Users/danflovier/AppData/Local/Temp/Temp1_drive-download-20171116T032053Z-001.zip/MailApp.java",
+		"/C/Users/danflovier/AppData/Local/Temp/Temp1_drive-download-20171116T032053Z-001.zip/SendMail.java",
+		"/C/Users/danflovier/Downloads/AAA144BA-5C2E-4089-BEAC-5EB79C932FAB.xml",
+		"/C/Users/danflovier/Documents/Quinto Semestre/Materias/Sistemas Operativos/Actividades/2o_parcial/Hilos.c",
+		"/C/Users/danflovier/Downloads/multDigitosFinal.sh",
+		"/C/Users/danflovier/Downloads/usuarios.sh",
+		"/C/Users/danflovier/Downloads/ic_camera_alt_white_24px.svg",
+		"/C/Users/danflovier/Desktop/jeje.cpp",
+		"/C/Users/danflovier/am.software/Evaluaciones/evalNaves/Naves.cpp",
+		"/C/Users/danflovier/Desktop/prueba.cpp",
+		"/C/Users/danflovier/Desktop/Computadora.h",
+		"/C/Users/danflovier/Desktop/Computadora.cpp",
+		"/C/Users/danflovier/am.software/Evaluaciones/Primera/Computadora.cpp",
+		"/C/Users/danflovier/am.software/Actividades/iterador/iteradorClase.cpp",
+		"/C/Users/danflovier/am.software/Actividades/Observer/Observer.cpp",
+		"/C/Users/danflovier/am.software/Evaluaciones/Primera/Computadora.h",
+		"/C/Users/danflovier/am.software/Clase/Singleton/Singleton.cpp",
+		"/C/Users/danflovier/am.software/Actividades/Builder/BuilderAviones.cpp",
+		"/C/Users/danflovier/am.software/Clase/factoryMethod/template.cpp",
+		"/C/Users/danflovier/Desktop/prueba1.cpp",
+		"/C/Users/danflovier/Documents/Quinto Semestre/Materias/Análisis y Modelación de Sistemas de Software/Function Pointers/returnFunctionTemplate.cpp",
+		"/C/Users/danflovier/Documents/Quinto Semestre/Materias/Análisis y Modelación de Sistemas de Software/Function Pointers/functionParameterTemplate.cpp",
+		"/C/Users/danflovier/Documents/Quinto Semestre/Materias/Análisis y Modelación de Sistemas de Software/Function Pointers/returnFunction.cpp"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/c++11.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
