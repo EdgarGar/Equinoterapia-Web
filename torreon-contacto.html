@@ -161,29 +161,33 @@
             </div>
             
             <h2>¿Tienes una duda o comentario?<br>¡Escríbenos!</h2> 
-            <!--Formulario de contacto-->
+            <!--Contact Form-->
             <div class="contact-form">
                 <form method="post" action="sendemail.php" id="contact-form">
                     <div class="row clearfix">
+                        <!--Name-->
                         <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                            <input type="text" name="username" value="" placeholder="Nombre *" required>
+                            <input type="text" maxlength="50" name="username" value="" placeholder="Nombre *" required>
                         </div>
+                        <!--E-mail-->
                         <div class="form-group col-md-6 col-sm-6 col-xs-12">
                             <input type="email" name="email" value="" placeholder="Correo electrónico *" required>
                         </div>
+                        <!--Phone-->
                         <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                            <input type="text" name="phone" value="" placeholder="Teléfono *" required>
+                            <input type="text" pattern="^[0–9]$" minlength="8" maxlength="10"  name="phone" value="" placeholder="Teléfono *" required>
                         </div>
+                        <!--Subject-->
                         <div class="form-group col-md-6 col-sm-6 col-xs-12">
-                            <input type="text" name="subject" value="" placeholder="Asunto *" required>
+                            <input type="text" maxlength="30" name="subject" value="" placeholder="Asunto *" required>
                         </div>
-                        
+                        <!--Message-->
                         <div class="column col-md-12 col-sm-12 col-xs-12">
                             <div class="form-group">
                                 <textarea name="message" placeholder="Escribe tu mensaje"></textarea>
                             </div>
                         </div>
-                        
+                        <!--Submit button-->
                         <div class="column col-md-12 col-sm-12 col-xs-12 text-center">
                             <div class="form-group">
                                 <button type="submit" class="theme-btn btn-style-one">Enviar</button>
@@ -192,7 +196,7 @@
                     </div>
                 </form>
             </div>
-            <!--Fin Formulario de contacto-->
+            <!--End Contact Form-->
         </div>
     </section>
     <!--End Contact Section-->
